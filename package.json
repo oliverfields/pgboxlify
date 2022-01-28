@@ -4,7 +4,8 @@
   "description": "",
   "main": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "python3 hello_world.py",
+    "test": "python cool.py"
   },
   "repository": {
     "type": "git",
